@@ -1,7 +1,7 @@
-# Clay Launcher releases
+# Clay Launcher
 
-Desktop downloads and signed updates for Clay Launcher.
+[Download for Windows x64](https://github.com/ClayEngineAI/claylauncher-releases/releases/latest/download/ClayLauncher.exe) · [Download for Apple Silicon](https://github.com/ClayEngineAI/claylauncher-releases/releases/latest/download/ClayLauncher-macOS.zip)
 
-Download the ZIP for your computer from [Releases](https://github.com/ClayEngineAI/claylauncher-releases/releases). On Apple Silicon, extract Clay Launcher.app and move it to Applications. On Windows x64, extract the entire Clay Launcher folder and run Clay Launcher.exe from it.
+On Windows, open `ClayLauncher.exe`. On macOS, unzip the download and move **Clay Launcher** to Applications.
 
-To check for a new version, open **Help → Check for Updates…** in the launcher.
+The launcher opens the Clay beta catalog and checks for updates automatically. If you installed v0.1.1, download the new launcher once to switch to the current update feed.
