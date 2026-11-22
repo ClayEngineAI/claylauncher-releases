@@ -1,18 +1,30 @@
 {
-  "version": "0.1.3",
-  "date": "2026-11-22T20:19:54Z",
-  "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.3-windows-amd64.tar.gz",
-  "size": 34722107,
-  "signature": "vA9YetYYFkQfGjJlbfbvSC9we+gSwAW+TmqyjP8p/vd7VYSdiJkO8J6JaJcqwwHVrgKO2BZoNUY6jaSw9sSrBQ==",
+  "version": "0.1.4",
+  "date": "2026-11-22T20:36:05Z",
+  "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.4-windows-amd64.tar.gz",
+  "size": 34728405,
+  "signature": "ndCU1ufqsOMT+OyG2sn6KYSLQkHV9NljtwFF8IK5+E9DZWulH5sXmR1tuPdoYupqfrpuNrHz3wmc+EU3n0GwAA==",
   "deltas": [
     {
+      "from": "0.1.3",
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.3-to-0.1.4-windows-amd64.delta",
+      "size": 361406,
+      "signature": "5VIxJsuz+Lr7vqOqOVuGZDv3by/UH9D/71NORxuPs2yLu8J5d3vobgWDUiFBg94u5BWkkOJrPN11REM8PXitBw=="
+    },
+    {
       "from": "0.1.2",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.2-to-0.1.3-windows-amd64.delta",
-      "size": 174393,
-      "signature": "ajr2I9UzrzkLHF/OEkE9T78EpbNZw0l8j1Boo8eeVD0DnaCedFiVz+rSodHnXSasLtTU/e6FA88n9n6HGH91AA=="
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.2-to-0.1.4-windows-amd64.delta",
+      "size": 331369,
+      "signature": "wzG425F2fHRmzmCd35lgfyzxacPvEGRfIoHzsE+OTaT5bllQ6xfXpWu8tSgQ6C4J/hrDSXX0qhLzl3tqmN7SAg=="
     }
   ],
   "previous": [
+    {
+      "version": "0.1.3",
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.3-windows-amd64.tar.gz",
+      "size": 34722107,
+      "signature": "vA9YetYYFkQfGjJlbfbvSC9we+gSwAW+TmqyjP8p/vd7VYSdiJkO8J6JaJcqwwHVrgKO2BZoNUY6jaSw9sSrBQ=="
+    },
     {
       "version": "0.1.2",
       "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.2-windows-amd64.tar.gz",
