@@ -1,41 +1,41 @@
 {
-  "version": "0.1.7",
-  "date": "2026-11-22T22:53:21Z",
-  "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.7-darwin-arm64.tar.gz",
-  "size": 34141979,
-  "signature": "lulrOPoVs0MB+OUETHGkdWG49TuMLyV77734Z19/UOSSW3F0+vWk6T00F/+3uqKbk9C4Skw1mnrk5vCEuYZyCg==",
+  "version": "0.1.9",
+  "date": "2026-11-23T05:37:06Z",
+  "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.9-darwin-arm64.tar.gz",
+  "size": 34144055,
+  "signature": "pPAKBxg7RrlQ5ti5TpcWHyt0wyeujwWuasNklpzrPqp69wPXODCvYamnKZif05km6ypNxkD5+5DbzLrnxCJIDg==",
   "deltas": [
     {
+      "from": "0.1.7",
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.7-to-0.1.9-darwin-arm64.delta",
+      "size": 477655,
+      "signature": "i5bqejhU0sAVDIOka18WM0SlaiBn4nEfVLfXkawO8yZaj0TmLcrOeeyAXh0gsCdQ9XOQOEXJYwtf6YROqW2dBw=="
+    },
+    {
       "from": "0.1.6",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.6-to-0.1.7-darwin-arm64.delta",
-      "size": 355597,
-      "signature": "FuIS6A9HP1Xvlb+0Q3QRcyVBuTqG5sME0xMZq1ieqJi84JChJl9ITTmjkTfTODhPr55XmHCERFssxr6cdKbpAg=="
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.6-to-0.1.9-darwin-arm64.delta",
+      "size": 571501,
+      "signature": "eD4tT3BFec3zI7I7rhr2dy+6ZIxMHq8bTpZFQZ/3TXrvntmiklK3iMW/R4E39UjLzQqOw/g+KrlaunZVNlGOAg=="
     },
     {
       "from": "0.1.5",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.5-to-0.1.7-darwin-arm64.delta",
-      "size": 446163,
-      "signature": "GE/qw4sXQTsrRLb9IvYpR/Cw1AvuAYLR8hYWnJfPuMAvLatT/02L+LG5mWj3SSiyGa4YsKOBGIz3qmWS9xNZBw=="
-    },
-    {
-      "from": "0.1.4",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.4-to-0.1.7-darwin-arm64.delta",
-      "size": 605340,
-      "signature": "YxPOrru32T53SKAQXpCXmQyygdv3EMHG0zEAAieVuwPNo9n5sPQr/oC7JozRGenMLklL4h70lEqq7jNstJW5BQ=="
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.5-to-0.1.9-darwin-arm64.delta",
+      "size": 581959,
+      "signature": "+DJG1fzPL9q14DsGBwy667MAVMi/AwPu1ux1E0kf3U1BPqU4GXQn1tItClEy1o1DXSkh69mIJmpPrb4/hpnuCw=="
     }
   ],
   "previous": [
+    {
+      "version": "0.1.7",
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.7-darwin-arm64.tar.gz",
+      "size": 34141979,
+      "signature": "lulrOPoVs0MB+OUETHGkdWG49TuMLyV77734Z19/UOSSW3F0+vWk6T00F/+3uqKbk9C4Skw1mnrk5vCEuYZyCg=="
+    },
     {
       "version": "0.1.6",
       "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.6-darwin-arm64.tar.gz",
       "size": 34140984,
       "signature": "+xDAKGGRsjPLdZM6SQJpW7XWEjs9sssBqg6zmLhNqHi5Hj9kH4/OFwaiYlXe8maBcUG+bcC8LMo8Y85fruvACw=="
-    },
-    {
-      "version": "0.1.5",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.1.5-darwin-arm64.tar.gz",
-      "size": 34140486,
-      "signature": "qXNUYFnc/xkthNzDCd/Gj4CSnv7Hte1pZSFPkibPBrwTSLOLMSVNq6oMppk2eVe968vj6crIxd4n2ebvZedJBg=="
     }
   ]
 }
