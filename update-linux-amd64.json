@@ -1,7 +1,23 @@
 {
-  "version": "0.2.4",
-  "date": "2026-11-24T22:28:04Z",
-  "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.4-linux-amd64.tar.gz",
-  "size": 58101459,
-  "signature": "DuunX5FPOSY/icWB6mHGjx8m+6O0pBJHurYsUoCsGHNFSnV2K14nhHwgjxsII7UPYAXlyqC5BQKqVXpALiXoAA=="
+  "version": "0.2.5",
+  "date": "2026-11-26T18:25:37Z",
+  "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.5-linux-amd64.tar.gz",
+  "size": 58104105,
+  "signature": "1zQbKkDq4liZaxCQhOCDshI65ow5KZqV7N0iYiwEy3FuyMxQAbaeNX9beVqV9JTl1MObNYcVeGSu4ITW8RT1Dw==",
+  "deltas": [
+    {
+      "from": "0.2.4",
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.4-to-0.2.5-linux-amd64.delta",
+      "size": 470512,
+      "signature": "85E9JTNanxFJPs/DcAi6oIpRYIHVdU/HJno2m9ZzDVYfCCYvurs1EZdExJXSXQv68mshxcaisibb1yBq2QeHBw=="
+    }
+  ],
+  "previous": [
+    {
+      "version": "0.2.4",
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.4-linux-amd64.tar.gz",
+      "size": 58101459,
+      "signature": "DuunX5FPOSY/icWB6mHGjx8m+6O0pBJHurYsUoCsGHNFSnV2K14nhHwgjxsII7UPYAXlyqC5BQKqVXpALiXoAA=="
+    }
+  ]
 }

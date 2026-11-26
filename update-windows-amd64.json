@@ -1,41 +1,41 @@
 {
-  "version": "0.2.4",
-  "date": "2026-11-24T19:11:17Z",
-  "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.4-windows-amd64.tar.gz",
-  "size": 35005492,
-  "signature": "E4UvM0Ewq22c21l3NzGdd/8RDAe7UjLiK9Onjw5f1tR5EoliWUUmAvMOFHf07LtHhECGqE2nafVR2eIlPZm8AQ==",
+  "version": "0.2.5",
+  "date": "2026-11-26T18:24:49Z",
+  "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.5-windows-amd64.tar.gz",
+  "size": 35008271,
+  "signature": "pubW8TL6iiT4jgoNmK77hvdTAIRY+N1QogqO0fYTvsh6a+o+MUTY6pCP4yfacdsi7edG51F/kQx+hg0c9501Dw==",
   "deltas": [
     {
+      "from": "0.2.4",
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.4-to-0.2.5-windows-amd64.delta",
+      "size": 530662,
+      "signature": "Zc/9Gb9XPcep7y6vWHXpUMMg68HFjQJBXnS7kkXMHmBCbvemuyIr12TAgu1bw6VpR5PqIH54fA0Ktngn0FPUAw=="
+    },
+    {
       "from": "0.2.3",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.3-to-0.2.4-windows-amd64.delta",
-      "size": 319340,
-      "signature": "4lnVekIxE3ZOkYpLPBrIEscM84cnN8CSeaWcYdPzB0AgfwnavnovpyvrzV2B7U62rvQEeNfkvfsou1WgrEqnCw=="
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.3-to-0.2.5-windows-amd64.delta",
+      "size": 513569,
+      "signature": "Uz6R4Ig5n4By1FHcJrXYfevgBchsxxR/7hj1X5PVl+gB+VDx0Ivk6oglzlkILXXJUC3/pP8jiORNYXE3f7aRCQ=="
     },
     {
       "from": "0.2.2",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.2-to-0.2.4-windows-amd64.delta",
-      "size": 562668,
-      "signature": "jVW45VOSSoW9qydvapk5DVGRwsz+ju+E8SP/BEQRVUZ8NqQ20eMtt+ZyvU3bF14pMwjGsC/98HNAw7gawHu8Dw=="
-    },
-    {
-      "from": "0.2.1",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.1-to-0.2.4-windows-amd64.delta",
-      "size": 567914,
-      "signature": "8FegRg0pSTdKzwFc8ImfDvPHD5jxDwNuKC3iPsW3/MFUj1exg2hDbS37mUS80czeiZrE/PcEGb3MEv9zJfrNBg=="
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.2-to-0.2.5-windows-amd64.delta",
+      "size": 587663,
+      "signature": "vDzIkJ7fpWuCfn7Tg+s31kT9/fNJX/u3MTZqu1M8iKx4FbtUFrHCG9Xmo1c1cYg+1oaw/xCFMusUG94jGzAwAg=="
     }
   ],
   "previous": [
+    {
+      "version": "0.2.4",
+      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.4-windows-amd64.tar.gz",
+      "size": 35005492,
+      "signature": "E4UvM0Ewq22c21l3NzGdd/8RDAe7UjLiK9Onjw5f1tR5EoliWUUmAvMOFHf07LtHhECGqE2nafVR2eIlPZm8AQ=="
+    },
     {
       "version": "0.2.3",
       "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.3-windows-amd64.tar.gz",
       "size": 35005258,
       "signature": "kBTmz/Z0xMj9Y2wCisC3jmjlDShZNXNwPiTm/1PEUz4OeO6dAoewWDgXfhi2Sr567mAshRlSmrqrbV0vWNFUCQ=="
-    },
-    {
-      "version": "0.2.2",
-      "url": "https://raw.githubusercontent.com/ClayEngineAI/claylauncher-releases/ota/claylauncher-0.2.2-windows-amd64.tar.gz",
-      "size": 35003247,
-      "signature": "fDOSTVQSbXuFh2Zes9q0p3/1y/cP2czj6ZO3q5Dg/6737ZaTy0q+N4rOv9m0JiWXxsaKUq3KfS85re8RmHkFCQ=="
     }
   ]
 }
